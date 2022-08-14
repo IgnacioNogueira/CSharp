@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\bin\Debug\netcoreapp3.1\Área de un rectangulo.exe
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\bin\Debug\netcoreapp3.1\Área de un rectangulo.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\bin\Debug\netcoreapp3.1\Área de un rectangulo.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\bin\Debug\netcoreapp3.1\Área de un rectangulo.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\bin\Debug\netcoreapp3.1\Área de un rectangulo.dll
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\bin\Debug\netcoreapp3.1\Área de un rectangulo.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.dll
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Área de un rectangulo\Área de un rectangulo\obj\Debug\netcoreapp3.1\Área de un rectangulo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\bin\Debug\netcoreapp3.1\Triple de un numero.exe
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\bin\Debug\netcoreapp3.1\Triple de un numero.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\bin\Debug\netcoreapp3.1\Triple de un numero.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\bin\Debug\netcoreapp3.1\Triple de un numero.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\bin\Debug\netcoreapp3.1\Triple de un numero.dll
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\bin\Debug\netcoreapp3.1\Triple de un numero.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.dll
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Triple de un numero\Triple de un numero\obj\Debug\netcoreapp3.1\Triple de un numero.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\bin\Debug\netcoreapp3.1\Tarea 4.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Tarea 4\Tarea 4\obj\Debug\netcoreapp3.1\Tarea 4.genruntimeconfig.cache

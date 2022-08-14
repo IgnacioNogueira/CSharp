@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ingrese dos nros y calcule la suma/1.0.0": {
+        "runtime": {
+          "Ingrese dos nros y calcule la suma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ingrese dos nros y calcule la suma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

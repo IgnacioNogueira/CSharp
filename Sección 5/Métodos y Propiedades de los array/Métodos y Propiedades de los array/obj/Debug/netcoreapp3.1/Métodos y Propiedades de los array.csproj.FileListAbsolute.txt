@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\bin\Debug\netcoreapp3.1\Métodos y Propiedades de los array.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\bin\Debug\netcoreapp3.1\Métodos y Propiedades de los array.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\bin\Debug\netcoreapp3.1\Métodos y Propiedades de los array.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\bin\Debug\netcoreapp3.1\Métodos y Propiedades de los array.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\bin\Debug\netcoreapp3.1\Métodos y Propiedades de los array.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\bin\Debug\netcoreapp3.1\Métodos y Propiedades de los array.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.genruntimeconfig.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Métodos y Propiedades de los array\Métodos y Propiedades de los array\obj\Debug\netcoreapp3.1\Métodos y Propiedades de los array.csprojAssemblyReference.cache

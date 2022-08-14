@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\bin\Debug\netcoreapp3.1\Primer proyecto de C jar.exe
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\bin\Debug\netcoreapp3.1\Primer proyecto de C jar.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\bin\Debug\netcoreapp3.1\Primer proyecto de C jar.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\bin\Debug\netcoreapp3.1\Primer proyecto de C jar.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\bin\Debug\netcoreapp3.1\Primer proyecto de C jar.dll
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\bin\Debug\netcoreapp3.1\Primer proyecto de C jar.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.dll
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Primer proyecto de C Jar\Primer proyecto de C jar\obj\Debug\netcoreapp3.1\Primer proyecto de C jar.genruntimeconfig.cache

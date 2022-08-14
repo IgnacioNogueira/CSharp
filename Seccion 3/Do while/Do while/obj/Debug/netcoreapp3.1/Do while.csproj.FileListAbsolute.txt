@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\bin\Debug\netcoreapp3.1\Do while.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\bin\Debug\netcoreapp3.1\Do while.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\bin\Debug\netcoreapp3.1\Do while.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\bin\Debug\netcoreapp3.1\Do while.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\bin\Debug\netcoreapp3.1\Do while.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\bin\Debug\netcoreapp3.1\Do while.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Do while\Do while\obj\Debug\netcoreapp3.1\Do while.genruntimeconfig.cache

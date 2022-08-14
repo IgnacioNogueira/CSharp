@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\obj\Debug\netcoreapp3.1\StarsWith(String).csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\obj\Debug\netcoreapp3.1\StarsWith(String).AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\obj\Debug\netcoreapp3.1\StarsWith(String).AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\bin\Debug\netcoreapp3.1\StarsWith(String).exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\bin\Debug\netcoreapp3.1\StarsWith(String).deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\bin\Debug\netcoreapp3.1\StarsWith(String).runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\bin\Debug\netcoreapp3.1\StarsWith(String).runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\bin\Debug\netcoreapp3.1\StarsWith(String).dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\bin\Debug\netcoreapp3.1\StarsWith(String).pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\obj\Debug\netcoreapp3.1\StarsWith(String).dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\obj\Debug\netcoreapp3.1\StarsWith(String).pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\StarsWith(String)\StarsWith(String)\obj\Debug\netcoreapp3.1\StarsWith(String).genruntimeconfig.cache

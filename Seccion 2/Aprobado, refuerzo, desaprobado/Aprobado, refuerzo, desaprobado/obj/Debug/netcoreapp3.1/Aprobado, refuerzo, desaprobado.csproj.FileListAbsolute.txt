@@ -1,0 +1,13 @@
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\bin\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.exe
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\bin\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.deps.json
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\bin\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.runtimeconfig.json
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\bin\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.runtimeconfig.dev.json
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\bin\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.dll
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\bin\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.pdb
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.csprojAssemblyReference.cache
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.AssemblyInfo.cs
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.dll
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.pdb
+C:\Users\ignac\source\repos\Aprobado, refuerzo, desaprobado\Aprobado, refuerzo, desaprobado\obj\Debug\netcoreapp3.1\Aprobado, refuerzo, desaprobado.genruntimeconfig.cache

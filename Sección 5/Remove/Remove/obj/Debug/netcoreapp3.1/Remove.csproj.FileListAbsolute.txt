@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\bin\Debug\netcoreapp3.1\Remove.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\bin\Debug\netcoreapp3.1\Remove.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\bin\Debug\netcoreapp3.1\Remove.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\bin\Debug\netcoreapp3.1\Remove.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\bin\Debug\netcoreapp3.1\Remove.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\bin\Debug\netcoreapp3.1\Remove.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\obj\Debug\netcoreapp3.1\Remove.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\obj\Debug\netcoreapp3.1\Remove.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\obj\Debug\netcoreapp3.1\Remove.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\obj\Debug\netcoreapp3.1\Remove.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\obj\Debug\netcoreapp3.1\Remove.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Remove\Remove\obj\Debug\netcoreapp3.1\Remove.genruntimeconfig.cache

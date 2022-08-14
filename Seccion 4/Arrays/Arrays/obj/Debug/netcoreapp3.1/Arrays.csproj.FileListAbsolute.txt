@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

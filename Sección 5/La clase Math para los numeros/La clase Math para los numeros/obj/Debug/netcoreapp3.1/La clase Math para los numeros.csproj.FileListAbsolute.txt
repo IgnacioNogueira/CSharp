@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\bin\Debug\netcoreapp3.1\La clase Math para los numeros.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\bin\Debug\netcoreapp3.1\La clase Math para los numeros.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\bin\Debug\netcoreapp3.1\La clase Math para los numeros.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\bin\Debug\netcoreapp3.1\La clase Math para los numeros.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\bin\Debug\netcoreapp3.1\La clase Math para los numeros.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\bin\Debug\netcoreapp3.1\La clase Math para los numeros.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\obj\Debug\netcoreapp3.1\La clase Math para los numeros.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\obj\Debug\netcoreapp3.1\La clase Math para los numeros.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\obj\Debug\netcoreapp3.1\La clase Math para los numeros.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\obj\Debug\netcoreapp3.1\La clase Math para los numeros.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\obj\Debug\netcoreapp3.1\La clase Math para los numeros.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\La clase Math para los numeros\La clase Math para los numeros\obj\Debug\netcoreapp3.1\La clase Math para los numeros.genruntimeconfig.cache

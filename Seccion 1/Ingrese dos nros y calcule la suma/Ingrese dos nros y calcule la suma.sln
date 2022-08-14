@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingrese dos nros y calcule la suma", "Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma.csproj", "{6171CA69-A3F8-4909-8606-5EAB74D77252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6171CA69-A3F8-4909-8606-5EAB74D77252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6171CA69-A3F8-4909-8606-5EAB74D77252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6171CA69-A3F8-4909-8606-5EAB74D77252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6171CA69-A3F8-4909-8606-5EAB74D77252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA3B97E-5273-4C23-A9B4-0C24EE6A8A98}
+	EndGlobalSection
+EndGlobal

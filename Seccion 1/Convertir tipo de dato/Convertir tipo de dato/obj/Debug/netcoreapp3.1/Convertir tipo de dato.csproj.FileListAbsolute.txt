@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\bin\Debug\netcoreapp3.1\Convertir tipo de dato.exe
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\bin\Debug\netcoreapp3.1\Convertir tipo de dato.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\bin\Debug\netcoreapp3.1\Convertir tipo de dato.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\bin\Debug\netcoreapp3.1\Convertir tipo de dato.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\bin\Debug\netcoreapp3.1\Convertir tipo de dato.dll
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\bin\Debug\netcoreapp3.1\Convertir tipo de dato.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.dll
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Convertir tipo de dato\Convertir tipo de dato\obj\Debug\netcoreapp3.1\Convertir tipo de dato.genruntimeconfig.cache

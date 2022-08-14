@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\bin\Debug\netcoreapp3.1\Mostrar los numeros pares.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\bin\Debug\netcoreapp3.1\Mostrar los numeros pares.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\bin\Debug\netcoreapp3.1\Mostrar los numeros pares.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\bin\Debug\netcoreapp3.1\Mostrar los numeros pares.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\bin\Debug\netcoreapp3.1\Mostrar los numeros pares.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\bin\Debug\netcoreapp3.1\Mostrar los numeros pares.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Mostrar los numeros pares\Mostrar los numeros pares\obj\Debug\netcoreapp3.1\Mostrar los numeros pares.genruntimeconfig.cache

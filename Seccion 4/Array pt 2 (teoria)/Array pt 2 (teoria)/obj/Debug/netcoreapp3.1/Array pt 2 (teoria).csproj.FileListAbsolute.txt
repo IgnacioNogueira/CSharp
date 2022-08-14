@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\bin\Debug\netcoreapp3.1\Array pt 2 (teoria).exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\bin\Debug\netcoreapp3.1\Array pt 2 (teoria).deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\bin\Debug\netcoreapp3.1\Array pt 2 (teoria).runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\bin\Debug\netcoreapp3.1\Array pt 2 (teoria).runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\bin\Debug\netcoreapp3.1\Array pt 2 (teoria).dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\bin\Debug\netcoreapp3.1\Array pt 2 (teoria).pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array pt 2 (teoria)\Array pt 2 (teoria)\obj\Debug\netcoreapp3.1\Array pt 2 (teoria).genruntimeconfig.cache

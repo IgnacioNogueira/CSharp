@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Substring\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

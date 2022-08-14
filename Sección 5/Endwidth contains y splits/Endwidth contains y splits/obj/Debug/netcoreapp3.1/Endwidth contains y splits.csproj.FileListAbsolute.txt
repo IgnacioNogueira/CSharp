@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\bin\Debug\netcoreapp3.1\Endwidth contains y splits.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\bin\Debug\netcoreapp3.1\Endwidth contains y splits.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\bin\Debug\netcoreapp3.1\Endwidth contains y splits.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\bin\Debug\netcoreapp3.1\Endwidth contains y splits.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\bin\Debug\netcoreapp3.1\Endwidth contains y splits.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\bin\Debug\netcoreapp3.1\Endwidth contains y splits.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Endwidth contains y splits\Endwidth contains y splits\obj\Debug\netcoreapp3.1\Endwidth contains y splits.genruntimeconfig.cache

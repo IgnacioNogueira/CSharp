@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\bin\Debug\netcoreapp3.1\Metodos de los string.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\bin\Debug\netcoreapp3.1\Metodos de los string.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\bin\Debug\netcoreapp3.1\Metodos de los string.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\bin\Debug\netcoreapp3.1\Metodos de los string.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\bin\Debug\netcoreapp3.1\Metodos de los string.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\bin\Debug\netcoreapp3.1\Metodos de los string.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos de los string\Metodos de los string\obj\Debug\netcoreapp3.1\Metodos de los string.genruntimeconfig.cache

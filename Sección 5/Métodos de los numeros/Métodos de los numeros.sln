@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Métodos de los numeros", "Métodos de los numeros\Métodos de los numeros.csproj", "{7DDA15BA-B8DC-4502-B4DE-0487F3BD6483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDA15BA-B8DC-4502-B4DE-0487F3BD6483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDA15BA-B8DC-4502-B4DE-0487F3BD6483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDA15BA-B8DC-4502-B4DE-0487F3BD6483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDA15BA-B8DC-4502-B4DE-0487F3BD6483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CD5CC9-6868-4414-80A4-187D9FF31233}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\bin\Debug\netcoreapp3.1\FindIndex.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\FindIndex\FindIndex\obj\Debug\netcoreapp3.1\FindIndex.genruntimeconfig.cache

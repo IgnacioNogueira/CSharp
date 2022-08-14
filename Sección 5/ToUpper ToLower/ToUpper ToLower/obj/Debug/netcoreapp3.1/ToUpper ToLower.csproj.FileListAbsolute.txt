@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\bin\Debug\netcoreapp3.1\ToUpper ToLower.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\bin\Debug\netcoreapp3.1\ToUpper ToLower.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\bin\Debug\netcoreapp3.1\ToUpper ToLower.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\bin\Debug\netcoreapp3.1\ToUpper ToLower.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\bin\Debug\netcoreapp3.1\ToUpper ToLower.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\bin\Debug\netcoreapp3.1\ToUpper ToLower.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToUpper ToLower\ToUpper ToLower\obj\Debug\netcoreapp3.1\ToUpper ToLower.genruntimeconfig.cache

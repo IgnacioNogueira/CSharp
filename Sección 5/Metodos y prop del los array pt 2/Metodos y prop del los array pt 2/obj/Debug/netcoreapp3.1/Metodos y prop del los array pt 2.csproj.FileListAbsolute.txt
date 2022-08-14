@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\bin\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\bin\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\bin\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\bin\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\bin\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\bin\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\obj\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\obj\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\obj\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\obj\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\obj\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Metodos y prop del los array pt 2\Metodos y prop del los array pt 2\obj\Debug\netcoreapp3.1\Metodos y prop del los array pt 2.genruntimeconfig.cache

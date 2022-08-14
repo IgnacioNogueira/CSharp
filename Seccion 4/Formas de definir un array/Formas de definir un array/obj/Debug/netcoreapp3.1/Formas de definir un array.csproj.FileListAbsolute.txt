@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\bin\Debug\netcoreapp3.1\Formas de definir un array.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\bin\Debug\netcoreapp3.1\Formas de definir un array.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\bin\Debug\netcoreapp3.1\Formas de definir un array.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\bin\Debug\netcoreapp3.1\Formas de definir un array.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\bin\Debug\netcoreapp3.1\Formas de definir un array.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\bin\Debug\netcoreapp3.1\Formas de definir un array.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\obj\Debug\netcoreapp3.1\Formas de definir un array.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\obj\Debug\netcoreapp3.1\Formas de definir un array.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\obj\Debug\netcoreapp3.1\Formas de definir un array.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\obj\Debug\netcoreapp3.1\Formas de definir un array.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\obj\Debug\netcoreapp3.1\Formas de definir un array.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Formas de definir un array\Formas de definir un array\obj\Debug\netcoreapp3.1\Formas de definir un array.genruntimeconfig.cache

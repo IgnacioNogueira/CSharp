@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache

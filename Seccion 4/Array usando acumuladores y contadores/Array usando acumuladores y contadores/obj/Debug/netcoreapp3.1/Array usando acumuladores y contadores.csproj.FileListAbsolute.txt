@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\bin\Debug\netcoreapp3.1\Array usando acumuladores y contadores.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\bin\Debug\netcoreapp3.1\Array usando acumuladores y contadores.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\bin\Debug\netcoreapp3.1\Array usando acumuladores y contadores.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\bin\Debug\netcoreapp3.1\Array usando acumuladores y contadores.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\bin\Debug\netcoreapp3.1\Array usando acumuladores y contadores.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\bin\Debug\netcoreapp3.1\Array usando acumuladores y contadores.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Array usando acumuladores y contadores\Array usando acumuladores y contadores\obj\Debug\netcoreapp3.1\Array usando acumuladores y contadores.genruntimeconfig.cache

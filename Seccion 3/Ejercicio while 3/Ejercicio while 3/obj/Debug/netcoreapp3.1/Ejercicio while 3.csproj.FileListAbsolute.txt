@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\bin\Debug\netcoreapp3.1\Ejercicio while 3.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\bin\Debug\netcoreapp3.1\Ejercicio while 3.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\bin\Debug\netcoreapp3.1\Ejercicio while 3.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\bin\Debug\netcoreapp3.1\Ejercicio while 3.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\bin\Debug\netcoreapp3.1\Ejercicio while 3.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\bin\Debug\netcoreapp3.1\Ejercicio while 3.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Ejercicio while 3\Ejercicio while 3\obj\Debug\netcoreapp3.1\Ejercicio while 3.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIndex", "FindIndex\FindIndex.csproj", "{B9A097AE-03B8-4476-83AC-88AC91BECE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A097AE-03B8-4476-83AC-88AC91BECE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A097AE-03B8-4476-83AC-88AC91BECE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A097AE-03B8-4476-83AC-88AC91BECE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A097AE-03B8-4476-83AC-88AC91BECE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FFEFB4C-8CAF-4733-9545-BE89E8C45007}
+	EndGlobalSection
+EndGlobal

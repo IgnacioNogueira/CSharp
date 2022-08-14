@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\obj\Debug\netcoreapp3.1\ToCharArray.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\obj\Debug\netcoreapp3.1\ToCharArray.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\obj\Debug\netcoreapp3.1\ToCharArray.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\bin\Debug\netcoreapp3.1\ToCharArray.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\bin\Debug\netcoreapp3.1\ToCharArray.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\bin\Debug\netcoreapp3.1\ToCharArray.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\bin\Debug\netcoreapp3.1\ToCharArray.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\bin\Debug\netcoreapp3.1\ToCharArray.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\bin\Debug\netcoreapp3.1\ToCharArray.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\obj\Debug\netcoreapp3.1\ToCharArray.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\obj\Debug\netcoreapp3.1\ToCharArray.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\ToCharArray\ToCharArray\obj\Debug\netcoreapp3.1\ToCharArray.genruntimeconfig.cache

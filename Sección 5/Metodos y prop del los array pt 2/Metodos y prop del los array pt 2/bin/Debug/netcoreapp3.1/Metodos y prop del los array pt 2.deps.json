@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Metodos y prop del los array pt 2/1.0.0": {
+        "runtime": {
+          "Metodos y prop del los array pt 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodos y prop del los array pt 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

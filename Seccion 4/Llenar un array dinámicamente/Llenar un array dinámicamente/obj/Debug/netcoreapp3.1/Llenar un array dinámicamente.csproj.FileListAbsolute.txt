@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\bin\Debug\netcoreapp3.1\Llenar un array dinámicamente.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\bin\Debug\netcoreapp3.1\Llenar un array dinámicamente.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\bin\Debug\netcoreapp3.1\Llenar un array dinámicamente.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\bin\Debug\netcoreapp3.1\Llenar un array dinámicamente.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\bin\Debug\netcoreapp3.1\Llenar un array dinámicamente.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\bin\Debug\netcoreapp3.1\Llenar un array dinámicamente.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\obj\Debug\netcoreapp3.1\Llenar un array dinámicamente.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\obj\Debug\netcoreapp3.1\Llenar un array dinámicamente.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\obj\Debug\netcoreapp3.1\Llenar un array dinámicamente.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\obj\Debug\netcoreapp3.1\Llenar un array dinámicamente.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\obj\Debug\netcoreapp3.1\Llenar un array dinámicamente.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 4\Llenar un array dinámicamente\Llenar un array dinámicamente\obj\Debug\netcoreapp3.1\Llenar un array dinámicamente.genruntimeconfig.cache

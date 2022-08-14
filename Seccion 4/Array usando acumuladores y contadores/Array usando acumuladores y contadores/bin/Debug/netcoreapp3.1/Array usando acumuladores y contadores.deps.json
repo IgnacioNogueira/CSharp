@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Array usando acumuladores y contadores/1.0.0": {
+        "runtime": {
+          "Array usando acumuladores y contadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array usando acumuladores y contadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

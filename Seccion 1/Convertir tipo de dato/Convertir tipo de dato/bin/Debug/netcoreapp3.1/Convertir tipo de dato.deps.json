@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Convertir tipo de dato/1.0.0": {
+        "runtime": {
+          "Convertir tipo de dato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convertir tipo de dato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Área de un rectangulo/1.0.0": {
+        "runtime": {
+          "Área de un rectangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Área de un rectangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

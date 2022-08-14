@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\bin\Debug\netcoreapp3.1\Ejercicio descuento switch.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\bin\Debug\netcoreapp3.1\Ejercicio descuento switch.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\bin\Debug\netcoreapp3.1\Ejercicio descuento switch.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\bin\Debug\netcoreapp3.1\Ejercicio descuento switch.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\bin\Debug\netcoreapp3.1\Ejercicio descuento switch.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\bin\Debug\netcoreapp3.1\Ejercicio descuento switch.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\obj\Debug\netcoreapp3.1\Ejercicio descuento switch.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\obj\Debug\netcoreapp3.1\Ejercicio descuento switch.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\obj\Debug\netcoreapp3.1\Ejercicio descuento switch.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\obj\Debug\netcoreapp3.1\Ejercicio descuento switch.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\obj\Debug\netcoreapp3.1\Ejercicio descuento switch.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 2\Ejercicio descuento switch\Ejercicio descuento switch\obj\Debug\netcoreapp3.1\Ejercicio descuento switch.genruntimeconfig.cache

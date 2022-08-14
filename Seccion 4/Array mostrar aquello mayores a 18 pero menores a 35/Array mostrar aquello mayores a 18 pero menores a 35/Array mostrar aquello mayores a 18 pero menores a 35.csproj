@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Array_mostrar_aquello_mayores_a_18_pero_menores_a_35</RootNamespace>
+  </PropertyGroup>
+
+</Project>

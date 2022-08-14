@@ -1,0 +1,12 @@
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\obj\Debug\netcoreapp3.1\Tabla de multiplicar con for.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\obj\Debug\netcoreapp3.1\Tabla de multiplicar con for.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\obj\Debug\netcoreapp3.1\Tabla de multiplicar con for.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\bin\Debug\netcoreapp3.1\Tabla de multiplicar con for.exe
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\bin\Debug\netcoreapp3.1\Tabla de multiplicar con for.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\bin\Debug\netcoreapp3.1\Tabla de multiplicar con for.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\bin\Debug\netcoreapp3.1\Tabla de multiplicar con for.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\bin\Debug\netcoreapp3.1\Tabla de multiplicar con for.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\bin\Debug\netcoreapp3.1\Tabla de multiplicar con for.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\obj\Debug\netcoreapp3.1\Tabla de multiplicar con for.dll
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\obj\Debug\netcoreapp3.1\Tabla de multiplicar con for.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Seccion 3\Tabla de multiplicar con for\Tabla de multiplicar con for\obj\Debug\netcoreapp3.1\Tabla de multiplicar con for.genruntimeconfig.cache

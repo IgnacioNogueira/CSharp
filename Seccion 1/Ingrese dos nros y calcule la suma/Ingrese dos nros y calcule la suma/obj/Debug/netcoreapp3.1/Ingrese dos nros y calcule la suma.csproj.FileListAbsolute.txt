@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\bin\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.exe
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\bin\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\bin\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\bin\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\bin\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.dll
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\bin\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.dll
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Ingrese dos nros y calcule la suma\Ingrese dos nros y calcule la suma\obj\Debug\netcoreapp3.1\Ingrese dos nros y calcule la suma.genruntimeconfig.cache

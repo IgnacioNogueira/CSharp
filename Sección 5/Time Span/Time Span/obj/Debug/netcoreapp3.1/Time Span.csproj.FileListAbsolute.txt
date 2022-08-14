@@ -1,0 +1,13 @@
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\bin\Debug\netcoreapp3.1\Time Span.exe
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\bin\Debug\netcoreapp3.1\Time Span.deps.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\bin\Debug\netcoreapp3.1\Time Span.runtimeconfig.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\bin\Debug\netcoreapp3.1\Time Span.runtimeconfig.dev.json
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\bin\Debug\netcoreapp3.1\Time Span.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\bin\Debug\netcoreapp3.1\Time Span.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.csprojAssemblyReference.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.AssemblyInfo.cs
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.dll
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.pdb
+C:\Users\ignac\Desktop\Unlam\C#\Sección 5\Time Span\Time Span\obj\Debug\netcoreapp3.1\Time Span.genruntimeconfig.cache
